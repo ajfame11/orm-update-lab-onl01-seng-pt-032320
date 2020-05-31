@@ -42,4 +42,6 @@ def self.create_table
     student.save
     student
   end
+  
+  
 end
